@@ -1,0 +1,15 @@
+/* Style for the JSON display container */
+#jsonDisplay {
+        background-color: #f5f5f5;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        font-family: Arial, sans-serif;
+    }
+    
+    /* Style for product name (bold) */
+    .product-name {
+        font-weight: bold;
+        color:blue;
+    }
+    

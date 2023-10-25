@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Product JSON</title>
+  <style>
+    .product {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div id="productList">
+    <!-- JSON data will be displayed here -->
+  </div>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $.get('https://abdullahia.sgedu.site/HW6/products.json', function(data) {
+        str = JSON.stringify(data);
+        document.write(str);
+    });
+  </script>
+</body>
+</html>

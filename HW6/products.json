@@ -1,0 +1,58 @@
+[
+        {
+                "name": "Classic Leather Boots",
+                "description": "Stylish leather boots for men",
+                "size": 11,
+                "price": "$80",
+                "categories":["Boots", "fashion"]
+        },
+        {
+                "name": "Nike Air 4",
+                "description": "High-performance running shoes",
+                "size": 9,
+                "price": "$150",
+                "categories": ["running", "athletic"]
+        },
+        {
+                "name": "Air Jordan 3",
+                "description": "Stylish shoes",
+                "size": 11,
+                "price": "$250",
+                "categories": ["running", "athletic"]
+        },
+        {
+                "name": "Blue Burton snowboard Boots",
+                "description": "Comfy and warm",
+                "size": 9,
+                "price": "$350",
+                "categories": ["Winter", "Boots"]
+        },
+        {
+                "name": "Addidas RUNFALCON 3",
+                "description": "Stable and fast",
+                "size": 11,
+                "price": "$43",
+                "categories": ["running", "athletic"]
+        },
+        {
+                "name": "Dior High Top",
+                "description": "Comfort and stylish",
+                "size": 11,
+                "price": "$1030",
+                "categories": ["fashion", "sneakers"]
+        },
+        {
+                "name": "Combats Boot",
+                "description": "Tough and stable",
+                "size": 9,
+                "price": "$95",
+                "categories": ["athletic", "Boots"]
+        },
+        {
+                "name": "Lockdown Basketball Shoes",
+                "description": "High-performance Basketball shoes",
+                "size": 9,
+                "price": "$70",
+                "categories": ["running", "athletic"]
+        }
+]
